@@ -1,0 +1,5 @@
+Log Entry,Count
+Jan 01 12:00:00 ERROR Something went wrong,1
+Jan 01 12:01:00 INFO Everything is fine,5
+Jan 01 12:02:00 WARN This might be an issue,1
+Jan 01 12:03:00 ERROR Another error occurred,1
